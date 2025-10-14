@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "@inquirer/prompts": "^7.9.0",
-    "qr-image-color": "^3.2.1"
+    "@inquirer/prompts": "^7.9.0"
   },
   "type": "module"
+
 }
+

@@ -9,7 +9,7 @@ console.log(`Generating Qrcode for ${answer}...`);
 // png with purple color and transparent background;
 var png_string = qr.imageSync(answer, {
      type: 'png',
-      color: "purple",
+      color: "red",
        transparent: true
      });
 
