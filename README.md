@@ -4,6 +4,7 @@ A simple **Node.js QR Code Generator** that takes a website URL as input and cre
 It features a transparent background and allows easy customization of the QR color.
 
 ---
+![QR Code Preview](https://github.com/FiyinfoluwaDav/QR-Code-Generator/blob/main/qr.png)
 
 ##  Features
 
