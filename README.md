@@ -27,7 +27,7 @@ It features a transparent background and allows easy customization of the QR col
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/FiyinfoluwaDavQR-Code=Generator.git
+   git clone https://github.com/FiyinfoluwaDav/QR-Code-Generator.git
 
 2. Initialize and install dependencies:
    ```bash
